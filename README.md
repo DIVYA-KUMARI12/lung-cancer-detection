@@ -1,4 +1,4 @@
-#📘 Lung Cancer Detection System
+# 📘 Lung Cancer Detection System
 
 A deep learning-based system to classify lung CT scans into 4 categories (cancer/non-cancer) using Convolutional Neural Networks (CNNs) with residual connections. The project also includes a Flask API for real-time predictions.
 
@@ -10,7 +10,7 @@ A deep learning-based system to classify lung CT scans into 4 categories (cancer
 ├── .gitignore                 # Ignore unnecessary files
 └── lung-cancer-detection/     # Project folder (images, models, etc.)
 
-#🎯 Features
+#🎯Features
 
 Classifies CT scans into 4 categories:
 
