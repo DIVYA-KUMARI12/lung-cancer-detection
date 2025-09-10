@@ -1,7 +1,0 @@
-Flask
-tensorflow
-numpy
-matplotlib
-pandas
-opencv-python
-pillow
