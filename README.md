@@ -131,5 +131,8 @@ Run Flask API:
 
 python app.py
 
-Test API:
-Open Postman or curl and hit http://127.0.0.1:5000/predict with an image file.
+Test API (Local Only)
+
+To test the API locally, you can use Postman or curl:
+curl -X POST http://127.0.0.1:5000/predict -F "image=@sample_image.jpg"
+Note: The API currently runs only on a local environment. Deployment to cloud platforms (Heroku, AWS, GCP) is planned for future updates.
